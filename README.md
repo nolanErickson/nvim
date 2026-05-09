@@ -1,4 +1,9 @@
-# 💤 LazyVim
+# Details
+Based on  💤[LazyVim](https://github.com/LazyVim/LazyVim).
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+## Current Theme
+`Gruvbox material hard`
+
+## Installation
+`git clone https://github.com/nolanErickson/nvim ~/.config/nvim`
+
